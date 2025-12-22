@@ -19,8 +19,10 @@ elif op == "*":
     print("Result =", a * b)
 
 elif op == "/":
+
     if b != 0:
         print("Result =", a / b)
+
     else:
         print("Cannot divide by zero")
 
