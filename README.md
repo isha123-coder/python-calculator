@@ -1,3 +1,3 @@
 # python-calculator
-#Simple calculator using Python
+#Simple calculator using functions
 
